@@ -1,3 +1,0 @@
-/sapmnt/home/I754057/cpp_proj/build/CMakeFiles/rebuild_cache.dir
-/sapmnt/home/I754057/cpp_proj/build/CMakeFiles/edit_cache.dir
-/sapmnt/home/I754057/cpp_proj/build/CMakeFiles/server.dir
