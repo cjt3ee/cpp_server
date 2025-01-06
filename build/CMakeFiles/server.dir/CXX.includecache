@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/sapmnt/home/I754057/cpp_proj/server.cpp
+arpa/inet.h
+-
+fcntl.h
+-
+sys/epoll.h
+-
+fmt/format.h
+-
+
