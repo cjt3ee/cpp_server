@@ -1,0 +1,39 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CMake specific files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeScripts/
+CTestTestfile.cmake
+Testing/
+Makefile
+Makefile.in
+compile_commands.json
+
+# Ignore build directories
+_build/
+[Cc][Mm][Aa][Kk][Ee][Bb][Uu][Ii][Ll][Dd]*/
+
+# Ignore build outputs 
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# Ignore Logs
+*.log
+
+# Ignore your IDE specific files
+.idea/
+.vscode/
+*.user
+*.swp
+*.swo
