@@ -6,4 +6,5 @@
 int main()
 {
     fmt::println("HAHA");
+    fmt::println("T");
 }
